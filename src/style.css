@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+    background-color: #EDEDED;
+}
+nav{
+    background-color: #BC8BDB;
+}
+
+nav .nav-link{
+    color: black;
+}
+
+main #teste{
+    height: 250px;
+    width: 200px;
+}
+
+
+.footer{
+    background-color: #5681F0;
+}
+
+/* footer {
+    position: absolute;
+    bottom: 0;
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+} */
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.form{
+    padding: 10px;    
+}
+
+.form input{
+    margin: 4px;
+    border-radius: 5px;
+}
+.textLongo{
+    margin: 4px;
+}
+
+.textLongo textarea{
+    border-radius: 5px;
+}
+
+.send{
+    background-color: #8BDB9D;
+    color: #F3F2EC;
+    border-radius: 10px;
+    border-color: #8bdb9d;
+    height: 30px;
+    width: 60px;
+    margin: 5px;
+}
